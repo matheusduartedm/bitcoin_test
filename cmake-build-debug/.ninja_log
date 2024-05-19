@@ -1,0 +1,5 @@
+# ninja log v5
+9	555	7378629561082921	build.ninja	2ed846ebde65c77a
+13878	19466	7376820936166109	bitcoin_testnet.exe	e085e3b83168dacf
+5	10464	7378629672933652	CMakeFiles/bitcoin_test.dir/main.cpp.obj	aa11b8f5af570a65
+10506	14548	7378629713493879	bitcoin_test.exe	4a6c99d8fbaeb601

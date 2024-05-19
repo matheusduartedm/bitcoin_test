@@ -1,0 +1,3 @@
+D:/repo/bitcoin_test/cmake-build-debug/CMakeFiles/bitcoin_test.dir
+D:/repo/bitcoin_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/repo/bitcoin_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
